@@ -368,3 +368,32 @@ background-image: linear-gradient(315deg, #d4418e 0%, #0652c5 74%);
        
         padding-inline-start: 0rem;
     }
+
+    .blog-link{
+        color: white;
+    padding: 0.5rem 0.5rem;
+    display: inline;
+
+    }
+.blog-link:hover{
+    color: red;
+    font-size: 2rem;
+}
+.blog-img{
+   margin: auto;
+   display: block;
+   width: 600px;
+   padding: 0.5rem;
+   border-radius: 0.8rem;
+}
+i{
+    color: white;
+    font-size: 2rem;
+    text-shadow: 1px 2px violet;
+}
+
+.fa:hover{
+    color: violet;
+    
+}
+
